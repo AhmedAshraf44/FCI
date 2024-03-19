@@ -10,6 +10,7 @@ import  com.example.myapp.model.Sum
 import  com.example.myapp.presenter.CalculateNumberPresenter
 import  com.example.myapp.presenter.ICalculateNumbersPresenter
 
+// Ahmed Ashraf Noman Shaban G1 / IS     احمد اشرف نعمان شعبان
 class MainActivity : AppCompatActivity(), CalculateNumberPresenter.View {
 
     lateinit var calculateAgePresenter: ICalculateNumbersPresenter
